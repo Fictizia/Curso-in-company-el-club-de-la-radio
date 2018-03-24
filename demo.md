@@ -1,6 +1,0 @@
-Hola...
-
-Esto es un texto solamente...
-
-### pendiente
-- [x] Crear el milestone
