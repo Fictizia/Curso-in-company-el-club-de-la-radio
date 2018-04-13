@@ -19,8 +19,8 @@ Teoría y Recursos
 =================
 Fecha | Teoría | Recursos | Contenido
 ------------ | ------------ | ------------- | -------------
-25/10/2017 | [Clase 1](teoria/dia1.md) | [Clase 1](recursos/dia1.md) | Trabajando eficientemente como equipo
-26/10/2017 | Clase 2 | Clase 2 | Automatizando el entorno con Nodejs
+24/03/2018 | [Clase 1](teoria/dia1.md) | [Clase 1](recursos/dia1.md) | Trabajando eficientemente como equipo
+14/04/2018 | Clase 2 | Clase 2 | Automatizando el entorno con Nodejs
 
 
 
